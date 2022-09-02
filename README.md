@@ -1,7 +1,6 @@
-`Hello, I am Selen.` 👋
-—
+# Hello, I am Selen. 👋
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 - 🌱 I’m currently learning **C Programming Language**
