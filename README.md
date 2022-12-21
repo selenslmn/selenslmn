@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on  [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/).
+- 🔭 I’m currently working on  [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png)
 - 🌱 I’m currently learning **C Programming Language**.
 - 👩🏽‍💻 My dream is to work in the **Software** field.
 
