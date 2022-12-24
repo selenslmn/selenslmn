@@ -8,4 +8,4 @@ About me:
 
 
 
-- 📫 How to reach me: [![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/z-selen-salman/) [![Medium](https://img.icons8.com/ios-filled/48/000000/medium-monogram--v1.png)](https://medium.com/@salmanselen) [![Kaggle](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png) [![HackerRank](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png)](https://www.hackerrank.com/salmanselen)
+- 📫 How to reach me: [![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/z-selen-salman/) [![Medium](https://img.icons8.com/ios-filled/48/000000/medium-monogram--v1.png)](https://medium.com/@salmanselen) [![Kaggle](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)] [![HackerRank](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png)](https://www.hackerrank.com/salmanselen)
