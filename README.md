@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m currently working on ![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio) , ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-24.png)
 - 🌱 I’m currently learning **C Programming Language**.
-- 👩🏽‍💻 My dream is to work in the **Artificial Intelligence** field.
+- 👩🏽‍💻 My dream is to work in the **Data Science** field.
 
 
 
