@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on ![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio) , ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-24.png) , ![Power BI](https://img.icons8.com/color/16/power-bi.png)
+- 🔭 I’m currently working on ![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio) , ![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-24.png) , ![Power BI](https://img.icons8.com/color/24/power-bi.png)
 - 🌱 I’m currently learning **C and Power BI**.
 - 👩🏽‍💻 My dream is to work in the **Data Science** field.
 
